@@ -1,0 +1,10 @@
+#Common OTA url for all devices
+ota_url=https://raw.githubusercontent.com/Darkness-reDefined/dnd_OTA/master/dndOTA.xml
+release_type=Stable
+device_name=ro.product.device
+ 
+#example ro.reDefined.version=DarkNess-reDefined-N-v1.0-20170201-kenzo-Official.zip
+version_source=ro.reDefined.version
+version_delimiter=-
+version_position=4
+version_format=yyyyMMdd
