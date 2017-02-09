@@ -16,5 +16,35 @@
                 title="XDA"
                 description="Visit DND RedmiNote3 XDA thread">http://forum.xda-developers.com/redmi-note-3/development</XDAUrl>
        </kenzo>
+       <bacon>
+            <Filename>DarkNess-reDefined-N-v1.0-20170207-bacon-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build">https://www.androidfilehost.com/?fid=817550096634744376</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Banks gapps">https://download.dirtyunicorns.com/gapps/Banks</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit DND Bacon XDA thread">https://forum.xda-developers.com/oneplus-one/development/rom-darkness-redefined-t3552945</XDAUrl>
+       </bacon>
+       <Z00L>
+            <Filename>DarkNess-reDefined-N-v1.0-20170209-Z00L-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build">https://www.androidfilehost.com/?fid=817550096634745006</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Banks gapps">https://download.dirtyunicorns.com/gapps/Banks</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit DND Z00L XDA thread">https://forum.xda-developers.com/zenfone-2-laser/orig-development/rom-darkness-redefined-z00l-t3553602</XDAUrl>
+       </Z00L>
     </Stable>
 </SlimOTA>
