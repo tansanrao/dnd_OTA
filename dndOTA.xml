@@ -61,5 +61,20 @@
                 title="XDA"
                 description="Visit DND Gemini XDA thread">https://forum.xda-developers.com/mi-5/development/official-oms-dui-t3554497</XDAUrl>
        </gemini>
+        <ham>
+            <Filename>DarkNess-reDefined-N-v1.0-20170210-ham-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build">http://qc4.androidfilehost.com/dl/ohDfuilo_JINdK3u_8qEWw/1487144957/457095661767136390/DarkNess-reDefined-N-v1.0-20170210-ham-Official.zip</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Banks gapps">https://download.dirtyunicorns.com/gapps/Banks</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit DND Ham XDA thread">https://forum.xda-developers.com/zuk-z1/orig-development/rom-darkness-redefined-v1-0-radioactive-t3554268</XDAUrl>
+       </ham>
     </Stable>
 </SlimOTA>
