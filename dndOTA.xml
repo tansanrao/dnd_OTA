@@ -91,5 +91,20 @@
                 title="XDA"
                 description="Visit DND Osprey XDA thread">https://forum.xda-developers.com/2015-moto-g/development/rom-darkness-redefined-t3554496</XDAUrl>
        </osprey>
+        <lettuce>
+            <Filename>DarkNess-reDefined-N-v1.0-20170207-lettuce-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build">https://www.androidfilehost.com/?fid=817550096634744318</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Banks gapps">https://download.dirtyunicorns.com/gapps/Banks</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit DND Lettuce thread">http://forums.yuplaygod.com/threads/official-7-1-1_r9-darkness-redefined-v1-0-07-02-volte.47515/</XDAUrl>
+       </lettuce>
     </Stable>
 </SlimOTA>
