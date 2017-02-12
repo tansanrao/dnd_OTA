@@ -76,5 +76,20 @@
                 title="XDA"
                 description="Visit DND Ham XDA thread">https://forum.xda-developers.com/zuk-z1/orig-development/rom-darkness-redefined-v1-0-radioactive-t3554268</XDAUrl>
        </ham>
+        <osprey>
+            <Filename>DarkNess-reDefined-N-v1.0-20170211-osprey-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build">https://www.androidfilehost.com/?fid=673368273298930433</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Banks gapps">https://download.dirtyunicorns.com/gapps/Banks</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit DND Osprey XDA thread">https://forum.xda-developers.com/2015-moto-g/development/rom-darkness-redefined-t3554496</XDAUrl>
+       </osprey>
     </Stable>
 </SlimOTA>
