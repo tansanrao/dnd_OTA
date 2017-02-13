@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>DarkNess-reDefined-N-v1.0-20170212-kenzo-Official.zipp</Filename>
+            <Filename>DarkNess-reDefined-N-v1.0-20170212-kenzo-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
