@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>DarkNess-reDefined-N-v1.0-20170210-kenzo-Official.zip</Filename>
+            <Filename>DarkNess-reDefined-N-v1.0-20170212-kenzo-Official.zipp</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download DND build">https://qc3.androidfilehost.com/dl/vcbNpYd75tIBGSJhOzOWog/1486442145/457095661767134762/DarkNess-reDefined-N-v1.0-20170204-kenzo-Official.zip</RomUrl>
+                description="Download DND build">https://va1.androidfilehost.com/dl/zGXmG8WY1SnAQGRlTV821Q/1487197864/817550096634745746/DarkNess-reDefined-N-v1.0-20170212-kenzo-Official.zip</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -14,7 +14,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit DND RedmiNote3 XDA thread">http://forum.xda-developers.com/redmi-note-3/development</XDAUrl>
+                description="Visit DND RedmiNote3 XDA thread">https://forum.xda-developers.com/redmi-note-3/development/rom-darkness-redefined-t3555228</XDAUrl>
        </kenzo>
        <bacon>
             <Filename>DarkNess-reDefined-N-v1.0-20170207-bacon-Official.zip</Filename>
