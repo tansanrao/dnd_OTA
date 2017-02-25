@@ -121,5 +121,20 @@
                 title="XDA"
                 description="Visit DND cancro XDA thread">https://forum.xda-developers.com/xiaomi-mi-3/development/rom-darkness-redefined-t3554637</XDAUrl>
        </cancro>
+       <s2>
+            <Filename>DarkNess-reDefined-N-v1.1-20170224-s2-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build">https://www.androidfilehost.com/?fid=673368273298934108</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Banks gapps">https://download.dirtyunicorns.com/gapps/Banks</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit DND x526 XDA thread">https://forum.xda-developers.com/le-2/development/rom-darkness-redefined-t3561982</XDAUrl>
+       </s2> 
     </Stable>
 </SlimOTA>
