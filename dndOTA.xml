@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>DarkNess-reDefined-N-v1.2-20170304-kenzo-Official.zip</Filename>
+            <Filename>DarkNess-reDefined-N-v1.3-20170316-kenzo-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download DND build">https://www.androidfilehost.com/?fid=457095661767141866</RomUrl>
+                description="Download DND build">https://www.androidfilehost.com/?fid=817550096634753677</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
