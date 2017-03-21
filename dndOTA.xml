@@ -140,5 +140,35 @@
                 title="PATCH"
                 description="Download Google Keyboard">https://www.androidfilehost.com/?fid=745425885120715757</PatchUrl>
         </s2> 
+      <mido>
+            <Filename>DarkNess-reDefined-N-v1.3-20170319-mido-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build">https://www.androidfilehost.com/?fid=817550096634755250</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Banks gapps">https://download.dirtyunicorns.com/gapps/Banks</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit DND XDA thread">https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-darkness-redefined-t3575527</XDAUrl>
+        </mido>
+     <hydrogen>
+            <Filename>DarkNess-reDefined-N-v1.3-20170319-hydrogen-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build"></RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Banks gapps">https://download.dirtyunicorns.com/gapps/Banks</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit DND XDA thread">https://forum.xda-developers.com/mi-max/development/7-1-1-darkness-redefined-rom-t3575491</XDAUrl>
+        </hydrogen>
     </Stable>
 </SlimOTA>
