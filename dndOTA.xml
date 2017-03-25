@@ -170,5 +170,16 @@
                 title="XDA"
                 description="Visit DND XDA thread">https://forum.xda-developers.com/mi-max/development/7-1-1-darkness-redefined-rom-t3575491</XDAUrl>
         </hydrogen>
+        <titan>
+            <Filename>DarkNess-reDefined-N-v1.3-20170324-titan-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build">https://www.androidfilehost.com/?fid=457095661767148549</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Banks gapps">https://download.dirtyunicorns.com/gapps/Banks</GappsUrl>
+            </titan> 
     </Stable>
 </SlimOTA>
