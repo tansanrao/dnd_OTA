@@ -122,11 +122,11 @@
                 description="Visit DND cancro XDA thread">https://forum.xda-developers.com/xiaomi-mi-3/development/rom-darkness-redefined-t3554637</XDAUrl>
        </cancro>
        <s2>
-            <Filename>DarkNess-reDefined-N-v1.3-20170316-s2-Official.zip</Filename>
+            <Filename>DarkNess-reDefined-N-v1.3-20170325-s2-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download DND build">https://www.androidfilehost.com/?fid=817550096634753812</RomUrl>
+                description="Download DND build">https://www.androidfilehost.com/?fid=673368273298942512</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -135,10 +135,6 @@
                 id="xda"
                 title="XDA"
                 description="Visit DND x526 XDA thread">https://forum.xda-developers.com/le-2/development/rom-darkness-redefined-t3561982</XDAUrl>
-            <PatchUrl
-                id="patch"
-                title="PATCH"
-                description="Download Google Keyboard">https://www.androidfilehost.com/?fid=745425885120715757</PatchUrl>
         </s2> 
       <mido>
             <Filename>DarkNess-reDefined-N-v1.3-20170319-mido-Official.zip</Filename>
