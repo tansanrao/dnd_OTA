@@ -178,11 +178,11 @@
                 description="Download latest Banks gapps">https://download.dirtyunicorns.com/gapps/Banks</GappsUrl>
             </titan>
         <athene>
-            <Filename>DarkNess-reDefined-N-v1.3-20170325-athene-OFFICIAL.zip</Filename>
+            <Filename>DarkNess-reDefined-N-v1.3-20170413-athene-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download DND build">https://www.androidfilehost.com/?fid=457095661767148761</RomUrl>
+                description="Download DND build">https://www.androidfilehost.com/?fid=745425885120724153</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
