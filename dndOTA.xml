@@ -160,7 +160,7 @@
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                decription="Download latest Banks gapps">https://download.dirtyunicorns.com/gapps/Banks</GappsUrl>
+                description="Download latest Banks gapps">https://download.dirtyunicorns.com/gapps/Banks</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
