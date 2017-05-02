@@ -207,5 +207,20 @@
                 title="XDA"
                 description="Visit DND LenovoK4Note XDA thread">https://forum.xda-developers.com/k4-note/development/rom-darkness-redefined-t3577935</XDAUrl>
         </A7010a48>
+        <oneplus2>
+            <Filename>DarkNess-reDefined-N-v1.4-20170502-oneplus2-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build">Soon</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Banks gapps">https://download.dirtyunicorns.com/gapps/Banks</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit DND OnePlus2 XDA thread">https://forum.xda-developers.com/oneplus-2/development/rom-darkness-redefined-t3569608</XDAUrl>
+        </oneplus2>
     </Stable>
 </SlimOTA>
